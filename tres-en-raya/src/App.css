@@ -1,0 +1,14 @@
+
+.App {
+  text-align: center;
+}
+
+.App h1 {
+  margin: 0;
+  padding: 28px 12px 0;
+  background: #0b1020;
+  color: #f8fafc;
+  font-size: clamp(26px, 5vw, 38px);
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
